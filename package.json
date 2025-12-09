@@ -3,7 +3,7 @@
   "displayName": "Perplexity Themes",
   "description": "Minimal Light and Dark VS Code themes inspired by Perplexity.",
   "publisher": "zakiuhh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.106.1"
   },
