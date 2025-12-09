@@ -4,6 +4,21 @@ All notable changes to this project are documented in this file.
 
 ---
 
+## [1.0.0] - 09-12-2025
+
+## Welcome to Ver. One point 0
+
+### 📦 Packaging
+- Created production-ready `.vsix` package for **version 1.0.0**
+
+### 🎨 Visual Improvements
+- Fixed light theme color inconsistencies
+- Corrected basic color palette for improved contrast and readability
+
+### Channelog Updated
+- Updated channelog with all versions and changes till now.
+
+
 ## [0.0.3] - 2025-12-09
 
 ### 🏷 Branding
