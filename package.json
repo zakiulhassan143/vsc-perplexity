@@ -10,6 +10,9 @@
   "categories": [
     "Themes"
   ],
+
+  "icon": "files/perplexity-icon.png",
+
   "repository": {
     "type": "git",
     "url": "https://github.com/zakiulhassan143/vsc-perplexity.git"
