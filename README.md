@@ -49,5 +49,21 @@ A modern low-eye-strain dark mode.
 3. Open the Folder in VS Code.
 4. Open terminal and Run:
 
-```bash
+```
 code --install-extension perplexity-themes.vsix
+```
+
+---
+
+### Installing the Fonts
+
+1. Download the file, [here](./files/Perplexity%20Theme%20Fonts.zip).
+2. Extract it
+3. Open **Settings**, or Press ```Ctrl+,```
+4. Navigate to **Text Editor --> Font**
+5. Replace the Font name with ```bash Berkeley Mono Trail```
+6. Now Restart VS Code.
+
+---
+
+### Thanks for Installing Theme. Review it on [Marketplace](https://marketplace.visualstudio.com/items?itemName=zakiuhh.perplexity-themes) now.
